@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(**)",
+      "Write(learnings/**)",
+      "Write(patterns/**)",
+      "Write(snippets/**)",
+      "Write(mistakes/**)",
+      "Write(prompts/**)"
+    ]
+  }
+}
